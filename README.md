@@ -1,0 +1,2 @@
+# limitlesscoin
+Libertarian Cryptocurrency Project
